@@ -6,5 +6,5 @@ echo "Installing oh-my-zsh ..."
 rm ./oh-install.sh
 
 echo "Creating links to config files"
-ln ./tmux.conf $(HOME)/.tmux.conf
+ln ./tmux.conf ${HOME}/.tmux.conf
 
